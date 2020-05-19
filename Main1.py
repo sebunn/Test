@@ -18,5 +18,4 @@ app = wx.App(False)
 frame =MainGui(None)
 frame.Show(True)
 app.MainLoop()
-
-print
+# this is a comment
