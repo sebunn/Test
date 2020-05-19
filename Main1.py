@@ -18,4 +18,3 @@ app = wx.App(False)
 frame = MainGui(None)
 frame.Show(True)
 app.MainLoop()
-# this is a comment
