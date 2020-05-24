@@ -7,6 +7,7 @@
 
 # import wx
 import wxFBfile
+from IPython.terminal.pt_inputhooks import wx
 
 
 class MainGui(wxFBfile.wxFBclass):
