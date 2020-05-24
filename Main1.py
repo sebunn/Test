@@ -5,7 +5,7 @@
 #  This template is READ ONLY,  save modified file in project directory
 #############################################################################
 
-import wx
+# import wx
 import wxFBfile
 
 
